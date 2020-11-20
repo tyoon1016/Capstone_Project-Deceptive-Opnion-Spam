@@ -8,7 +8,7 @@ In this project, I am utilizing machine learning, deep learning, and semi-superv
 
 ## Dataset
 
-Labeled dataset was provided from Myle Ott, https://myleott.com/op-spam
+### Labeled dataset was provided from Myle Ott, https://myleott.com/op-spam
 
 400 truthful positive reviews from TripAdvisor 
 400 deceptive positive reviews from Mechanical Turk 
@@ -17,28 +17,28 @@ Labeled dataset was provided from Myle Ott, https://myleott.com/op-spam
 
 Web Scrapped Data
 
-1600 reviews from TripAdvisor
+### 1600 reviews from TripAdvisor
 
-- affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
-- allegro: Hotel Allegro Chicago - a Kimpton Hotel
-- amalfi: Amalfi Hotel Chicago (Now Kinzie Hotel)
-- ambassador: Ambassador Chicago
+- Affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
+- Allegro: Hotel Allegro Chicago - a Kimpton Hotel
+- Amalfi: Amalfi Hotel Chicago (Now Kinzie Hotel)
+- Ambassador: Ambassador Chicago
 - Chicago Autograph
-- conrad: Conrad Chicago
-- fairmont: Fairmont Chicago Millennium Park
-- hilton: Hilton Chicago
-- homewood: Homewood Suites by Hilton Chicago Downtown
-- hyatt: Hyatt Regency Chicago
-- intercontinental: InterContinental Chicago
-- james: James Chicago
-- knickerbocker: Millennium Knickerbocker Hotel Chicago
-- monaco: Hotel Monaco Chicago - a Kimpton Hotel
-- omni: Omni Chicago Hotel
-- palmer: The Palmer House Hilton
-- sheraton: Sheraton Chicago Hotel and Towers
-- sofitel: Sofitel Chicago Water Tower
-- swissotel: Swissotel Chicago
-- talbott: The Talbott Hotel
+- Conrad: Conrad Chicago
+- Fairmont: Fairmont Chicago Millennium Park
+- Hilton: Hilton Chicago
+- Homewood: Homewood Suites by Hilton Chicago Downtown
+- Hyatt: Hyatt Regency Chicago
+- Intercontinental: InterContinental Chicago
+- James: James Chicago
+- Knickerbocker: Millennium Knickerbocker Hotel Chicago
+- Monaco: Hotel Monaco Chicago - a Kimpton Hotel
+- Omni: Omni Chicago Hotel
+- Palmer: The Palmer House Hilton
+- Sheraton: Sheraton Chicago Hotel and Towers
+- Sofitel: Sofitel Chicago Water Tower
+- Swissotel: Swissotel Chicago
+- Talbott: The Talbott Hotel
 
 ## PRoblem Statement
 
