@@ -40,7 +40,7 @@ Web Scrapped Data
 - Swissotel: Swissotel Chicago
 - Talbott: The Talbott Hotel
 
-## PRoblem Statement
+## Problem Statement
 
 - . 
 - .
