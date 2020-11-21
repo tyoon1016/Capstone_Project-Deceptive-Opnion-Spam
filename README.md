@@ -8,7 +8,7 @@ In this project, I am utilizing machine learning, and semi-supervised learning o
 
 ## Dataset
 
-### Labeled dataset was provided from Myle Ott, https://myleott.com/op-spam
+##### Labeled dataset was provided from Myle Ott, https://myleott.com/op-spam
 
 400 truthful positive reviews from TripAdvisor 
 400 deceptive positive reviews from Mechanical Turk 
