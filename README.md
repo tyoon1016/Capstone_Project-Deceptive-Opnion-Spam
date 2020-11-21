@@ -56,7 +56,7 @@ Web Scrapped Data
 Using varius machine learning models below, I will predict true/deceptive reviews.
 
 1. Machine Learning
-  a. Logistics Regression
+<br />a. Logistics Regression
   
   
   
