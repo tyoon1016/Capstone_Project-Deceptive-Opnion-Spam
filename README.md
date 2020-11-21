@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I am utilizing machine learning, deep learning, and semi-supervised learning on a deceptive spam classification project on Tripadvisor reviews. Labeled dataset is from  dataset from Myle Ott's reserch paper data. 1600 unlabeled data was web scraped from tripadvisor for the same hotels for semi-supervised learning models. The goal is to predict the probability of hotel reivews wheather if it is decpetive or not by binary target isFraud.
+In this project, I am utilizing machine learning, and semi-supervised learning on a deceptive spam classification project on Tripadvisor reviews. Labeled dataset is from  dataset from Myle Ott's reserch paper. 1600 unlabeled data was web scraped from tripadvisor for the same hotels for semi-supervised learning models. The goal is to predict the probability of hotel reivews wheather if it is decpetive or not by binary target isFraud.
 
 #### Data source is from : Myle Ott, Negative Deceptive Opinion Spam https://myleott.com/
 
@@ -18,6 +18,7 @@ In this project, I am utilizing machine learning, deep learning, and semi-superv
 Web Scrapped Data
 
 ### 1600 reviews from TripAdvisor
+80 reviews from each hotel
 
 - Affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
 - Allegro: Hotel Allegro Chicago - a Kimpton Hotel
@@ -42,22 +43,43 @@ Web Scrapped Data
 
 ## Problem Statement
 
-- . 
-- .
-- .
-- . 
+- eCommerce has been grown to 25 trillion USD word-wide and US market of 601 billion USD.
+- 93% of consumers are influenced by reviews for there purchasing descisions.
+- 82% of Consumers have read a fake review in previous year.
+- 62% of consumers have experienced discrepency of the product from reviews.
+- It is very important from costomer's aspect to have filtered reviews for true
 
 ## Methodology
 
-By below gradient goosting method, I will predict fradulent customers/cards.
+### Natural Language Processing
+
+Using varius machine learning models below, I will predict true/deceptive reviews.
 
 1. Machine Learning
   a. Logistics Regression
+  
+  
+  
+  
   b. Support Vector Machine 
+  
+  
+  
+  
+  
   c. Naive Bayes Classifier
-2. Deep Learning
-  a.
-3. Semi Supervised Learning
+  
+  
+  
+  
+  
+  d. word2vec Model
+  
+  
+  
+  
+  
+2. Semi Supervised Learning
   a. Label Propagation
 
 ## Files
