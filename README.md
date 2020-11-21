@@ -76,6 +76,10 @@ Using varius machine learning models below, I will predict true/deceptive review
 
 ## Conclusion
 
+- TFidf vectorization perforemd slightly better than count vectorization method.
+Bes performing model was supportive vector modeling with 86.4% accuracy.
+- Pre-trained SVC model's accuracy was 51% with unlabled data.
+- Semi supervised model with label propagation had also 51% accuracy.
 
 
 ## Files
