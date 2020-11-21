@@ -44,10 +44,11 @@ Web Scrapped Data
 ## Problem Statement
 
 - eCommerce has been grown to 25 trillion USD word-wide and US market of 601 billion USD.
-- 93% of consumers are influenced by reviews for there purchasing descisions.
+- 93% of consumers are influenced by reviews for their purchasing descisions.
 - 82% of Consumers have read a fake review in previous year.
 - 62% of consumers have experienced discrepency of the product from reviews.
-- It is very important from costomer's aspect to have filtered reviews for true
+- Online reviews has been one of the most mportant factor of purchasing
+- It is crucial for costomer's aspect to have filtered and truthful reviews to make their descisions.
 
 ## Methodology
 
