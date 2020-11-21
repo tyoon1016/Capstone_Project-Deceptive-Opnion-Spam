@@ -53,7 +53,14 @@ Web Scrapped Data
 
 ### Natural Language Processing
 
+- Two different Vectorization approaches
+<br />a. Count Vectorization: measurement of frequency of each words
+<br />b. TF-IDF Vectorization: frequency of each words offset by overall frequency in the corpus
 
+- Word Embedding: Language modeling technique used for mapping words to vectors of real numbers
+<br />a. Genism: Open source natural language processing library used for unsupervised topic modeling, handling various complex tasks such as Building document or word vectors, Corpora, performing topic identification, performing document comparison (retrieving semantically similar documents), analysing plain-text documents for semantic structure.
+
+<br />b. GloVe: It is un-supervised learning algorithm for obtaining vector representation for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
 
 ### Models
 
