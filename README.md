@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I am utilizing machine learning, and semi-supervised learning on a deceptive spam classification project on Tripadvisor reviews. Labeled dataset is from  dataset from Myle Ott's reserch paper. 1600 unlabeled data was web scraped from tripadvisor for the same hotels for semi-supervised learning models. The goal is to predict the probability of hotel reivews wheather if it is decpetive or not by binary target isFraud.
+In this project, I am utilizing machine learning, and semi-supervised learning on a deceptive spam classification project on Tripadvisor reviews. Labeled dataset is from  dataset from Myle Ott's reserch paper. 1600 unlabeled data was web scraped from tripadvisor for the same hotels for semi-supervised learning models. The goal is to predict the probability of hotel reivews wheather if it is decpetive or not by binary target isFraud. Machine learning model on labeled data to see the result will be developed first. Unlabeled data will be test with pre-trained models and semi-supervised learning model will be developed last.
 
 #### Data source is from : Myle Ott, Negative Deceptive Opinion Spam https://myleott.com/
 
@@ -53,6 +53,10 @@ Web Scrapped Data
 
 ### Natural Language Processing
 
+
+
+### Models
+
 Using varius machine learning models below, I will predict true/deceptive reviews.
 
 1. Machine Learning
@@ -63,6 +67,10 @@ Using varius machine learning models below, I will predict true/deceptive review
 
 2. Semi Supervised Learning
 <br />a. Label Propagation
+
+## Conclusion
+
+
 
 ## Files
 
