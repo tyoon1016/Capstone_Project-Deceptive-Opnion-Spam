@@ -57,30 +57,12 @@ Using varius machine learning models below, I will predict true/deceptive review
 
 1. Machine Learning
 <br />a. Logistics Regression
-  
-  
-  
-  
-  b. Support Vector Machine 
-  
-  
-  
-  
-  
-  c. Naive Bayes Classifier
-  
-  
-  
-  
-  
-  d. word2vec Model
-  
-  
-  
-  
-  
+<br />b. Support Vector Machine 
+<br />c. Naive Bayes Classifier
+<br />d. word2vec Model
+
 2. Semi Supervised Learning
-  a. Label Propagation
+<br />a. Label Propagation
 
 ## Files
 
