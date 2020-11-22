@@ -75,6 +75,10 @@ Using varius machine learning models below, I will predict true/deceptive review
 2. Semi Supervised Learning
 <br />a. Label Propagation
 
+### Model Validation
+
+Accr
+
 ## Conclusion
 
 - TFidf vectorization perforemd slightly better than count vectorization method.
