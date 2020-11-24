@@ -75,17 +75,13 @@ Using varius machine learning models below, I will predict true/deceptive review
 2. Semi Supervised Learning
 <br />a. Label Propagation
 
-### Model Validation
-
-Accr
-
 ## Conclusion
 
-- TFidf vectorization perforemd slightly better than count vectorization method.
-Bes performing model was supportive vector modeling with 86.4% accuracy.
-- Pre-trained SVC model's accuracy was 51% with unlabled data.
-- Semi supervised model with label propagation had also 51% accuracy.
-
+1.Supportive Vector Machine model had 87.7% of accuracy.
+2. Word2Vec model had 53% accuracy.
+3. Pre-trained Multinomial Naïve Bayse model with unlabeled test data had accuracy of 51.2%.
+4. Label propagation model had 50% accuracy.
+5. TFidf vectorization and countvectorization Performed similarly in most of cases.
 
 ## Files
 
