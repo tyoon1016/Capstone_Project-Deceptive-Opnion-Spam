@@ -89,3 +89,4 @@ Using varius machine learning models below, I will predict true/deceptive review
 2. Capstone_Coding.ipynb - Python coding file
 3. KangCapstoneProject - Presentation powerpoint/PDF slides
 4. Capstone Record Addres - Textfile for youtube address for recorded presentation video
+5. Visual_aids - Suplemental visual aids for presentation
