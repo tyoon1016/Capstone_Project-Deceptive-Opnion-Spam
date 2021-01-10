@@ -75,16 +75,16 @@ Using varius machine learning models below, I will predict true/deceptive review
 
 ## Conclusion
 
-1.Supportive Vector Machine model had 87.7% of accuracy.
-2. Word2Vec model had 53% accuracy.
-3. Pre-trained Multinomial Naïve Bayse model with unlabeled test data had accuracy of 51.2%.
-4. Label propagation model had 50% accuracy.
-5. TFidf vectorization and countvectorization Performed similarly in most of cases.
+  1. Supportive Vector Machine model had 87.7% of accuracy.
+  2. Word2Vec model had 53% accuracy.
+  3. Pre-trained Multinomial Naïve Bayse model with unlabeled test data had accuracy of 51.2%.
+  4. Label propagation model had 50% accuracy.
+  5. TFidf vectorization and countvectorization Performed similarly in most of cases.
 
 ## Files
 
-1. README.md - Explanatory page
-2. Capstone_Coding.ipynb - Python coding file
-3. KangCapstoneProject - Presentation powerpoint/PDF slides
-4. Capstone Record Addres - Textfile for youtube address for recorded presentation video
-5. Visual_aids - Suplemental visual aids for presentation
+  1. README.md - Explanatory page
+  2. Capstone_Coding.ipynb - Python coding file
+  3. KangCapstoneProject - Presentation powerpoint/PDF slides
+  4. Capstone Record Addres - Textfile for youtube address for recorded presentation video
+  5. Visual_aids - Suplemental visual aids for presentation
