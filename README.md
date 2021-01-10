@@ -15,9 +15,7 @@ In this project, I am utilizing machine learning, and semi-supervised learning o
 400 truthful negative reviews from Expedia, Hotels.com, Orbitz, Priceline, TripAdvisor and Yelp (described in [2])
 400 deceptive negative reviews from Mechanical Turk 
 
-Web Scrapped Data
-
-### 1600 reviews from TripAdvisor
+### Web scrapped 1600 reviews from TripAdvisor
 80 reviews from each hotel
 
 - Affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
